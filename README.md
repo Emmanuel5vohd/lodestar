@@ -374,3 +374,6 @@ We have chosen the **Apache License, Version 2.0** to align with standard licens
 
 <!-- handsoff-issue-320 -->
 - #320: Agents: `check_spending_allowed` ignores `allowed_categories` entirely
+
+<!-- handsoff-issue-326 -->
+- #326: Agents: scoring constants are hardcoded and cannot be tuned after deployment
